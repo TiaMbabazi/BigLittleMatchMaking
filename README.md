@@ -41,4 +41,13 @@ Each Big and Little has a profile containing:
 - Campus preferences
 - Team involvement
 
-Example format:
+## How to Run
+
+1. Compile all Java files:
+   ```bash
+   javac *.java
+2. Run the main class:
+   java Maker
+3. View the output:
+- Matched results in matched.csv
+- Unmatched Bigs and Littles in separate files
