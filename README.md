@@ -47,7 +47,8 @@ Each Big and Little has a profile containing:
    ```bash
    javac *.java
 2. Run the main class:
+   ```bash
    java Maker
-3. View the output:
+4. View the output:
 - Matched results in matched.csv
 - Unmatched Bigs and Littles in separate files
